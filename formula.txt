@@ -1,0 +1,5 @@
+E 1 TA
+A 3 +TA -TA #
+T 1 FB
+B 3 *FB /FB #
+F 2 n (E)
